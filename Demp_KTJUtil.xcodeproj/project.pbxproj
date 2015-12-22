@@ -13,15 +13,15 @@
 		320802E61C28F7A60033BC09 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 320802E41C28F7A60033BC09 /* Main.storyboard */; };
 		320802E81C28F7A60033BC09 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 320802E71C28F7A60033BC09 /* Assets.xcassets */; };
 		320802EB1C28F7A60033BC09 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 320802E91C28F7A60033BC09 /* LaunchScreen.storyboard */; };
-		320802F81C28F7E20033BC09 /* NSObject+KTJUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 320802F71C28F7E20033BC09 /* NSObject+KTJUtil.m */; };
-		320802FC1C28F9240033BC09 /* UITableView+KTJUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 320802FB1C28F9240033BC09 /* UITableView+KTJUtil.m */; };
-		320803021C28F9D00033BC09 /* UITableViewCell+KTJUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 320803011C28F9D00033BC09 /* UITableViewCell+KTJUtil.m */; };
-		320803051C28FA060033BC09 /* UITableViewHeaderFooterView+KTJUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 320803041C28FA060033BC09 /* UITableViewHeaderFooterView+KTJUtil.m */; };
-		320803081C28FA8E0033BC09 /* NSString+KTJUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 320803071C28FA8E0033BC09 /* NSString+KTJUtil.m */; };
-		3208030B1C28FAE20033BC09 /* UIControl+KTJUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 3208030A1C28FAE20033BC09 /* UIControl+KTJUtil.m */; };
-		3208030E1C28FE050033BC09 /* UIGestureRecognizer+KTJUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 3208030D1C28FE050033BC09 /* UIGestureRecognizer+KTJUtil.m */; };
-		320803111C28FEE30033BC09 /* UIImage+KTJUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 320803101C28FEE30033BC09 /* UIImage+KTJUtil.m */; };
-		320803141C28FF5F0033BC09 /* UIView+KTJUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 320803131C28FF5F0033BC09 /* UIView+KTJUtil.m */; };
+		320803461C2906710033BC09 /* NSObject+KTJUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 320803351C2906710033BC09 /* NSObject+KTJUtil.m */; };
+		320803471C2906710033BC09 /* NSString+KTJUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 320803371C2906710033BC09 /* NSString+KTJUtil.m */; };
+		320803481C2906710033BC09 /* UIControl+KTJUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 320803391C2906710033BC09 /* UIControl+KTJUtil.m */; };
+		320803491C2906710033BC09 /* UIGestureRecognizer+KTJUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 3208033B1C2906710033BC09 /* UIGestureRecognizer+KTJUtil.m */; };
+		3208034A1C2906710033BC09 /* UIImage+KTJUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 3208033D1C2906710033BC09 /* UIImage+KTJUtil.m */; };
+		3208034B1C2906710033BC09 /* UITableView+KTJUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 3208033F1C2906710033BC09 /* UITableView+KTJUtil.m */; };
+		3208034C1C2906710033BC09 /* UITableViewCell+KTJUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 320803411C2906710033BC09 /* UITableViewCell+KTJUtil.m */; };
+		3208034D1C2906710033BC09 /* UITableViewHeaderFooterView+KTJUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 320803431C2906710033BC09 /* UITableViewHeaderFooterView+KTJUtil.m */; };
+		3208034E1C2906710033BC09 /* UIView+KTJUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 320803451C2906710033BC09 /* UIView+KTJUtil.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,25 +35,25 @@
 		320802E71C28F7A60033BC09 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		320802EA1C28F7A60033BC09 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		320802EC1C28F7A60033BC09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		320802F61C28F7E20033BC09 /* NSObject+KTJUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+KTJUtil.h"; sourceTree = "<group>"; };
-		320802F71C28F7E20033BC09 /* NSObject+KTJUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+KTJUtil.m"; sourceTree = "<group>"; };
-		320802F91C28F8280033BC09 /* KTJUtilHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KTJUtilHeader.h; sourceTree = "<group>"; };
-		320802FA1C28F9240033BC09 /* UITableView+KTJUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITableView+KTJUtil.h"; sourceTree = "<group>"; };
-		320802FB1C28F9240033BC09 /* UITableView+KTJUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITableView+KTJUtil.m"; sourceTree = "<group>"; };
-		320803001C28F9D00033BC09 /* UITableViewCell+KTJUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITableViewCell+KTJUtil.h"; sourceTree = "<group>"; };
-		320803011C28F9D00033BC09 /* UITableViewCell+KTJUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITableViewCell+KTJUtil.m"; sourceTree = "<group>"; };
-		320803031C28FA060033BC09 /* UITableViewHeaderFooterView+KTJUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITableViewHeaderFooterView+KTJUtil.h"; sourceTree = "<group>"; };
-		320803041C28FA060033BC09 /* UITableViewHeaderFooterView+KTJUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITableViewHeaderFooterView+KTJUtil.m"; sourceTree = "<group>"; };
-		320803061C28FA8E0033BC09 /* NSString+KTJUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+KTJUtil.h"; sourceTree = "<group>"; };
-		320803071C28FA8E0033BC09 /* NSString+KTJUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+KTJUtil.m"; sourceTree = "<group>"; };
-		320803091C28FAE20033BC09 /* UIControl+KTJUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIControl+KTJUtil.h"; sourceTree = "<group>"; };
-		3208030A1C28FAE20033BC09 /* UIControl+KTJUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIControl+KTJUtil.m"; sourceTree = "<group>"; };
-		3208030C1C28FE050033BC09 /* UIGestureRecognizer+KTJUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIGestureRecognizer+KTJUtil.h"; sourceTree = "<group>"; };
-		3208030D1C28FE050033BC09 /* UIGestureRecognizer+KTJUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIGestureRecognizer+KTJUtil.m"; sourceTree = "<group>"; };
-		3208030F1C28FEE30033BC09 /* UIImage+KTJUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+KTJUtil.h"; sourceTree = "<group>"; };
-		320803101C28FEE30033BC09 /* UIImage+KTJUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+KTJUtil.m"; sourceTree = "<group>"; };
-		320803121C28FF5F0033BC09 /* UIView+KTJUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+KTJUtil.h"; sourceTree = "<group>"; };
-		320803131C28FF5F0033BC09 /* UIView+KTJUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+KTJUtil.m"; sourceTree = "<group>"; };
+		320803331C2906710033BC09 /* KTJUtilHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KTJUtilHeader.h; sourceTree = "<group>"; };
+		320803341C2906710033BC09 /* NSObject+KTJUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+KTJUtil.h"; sourceTree = "<group>"; };
+		320803351C2906710033BC09 /* NSObject+KTJUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+KTJUtil.m"; sourceTree = "<group>"; };
+		320803361C2906710033BC09 /* NSString+KTJUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+KTJUtil.h"; sourceTree = "<group>"; };
+		320803371C2906710033BC09 /* NSString+KTJUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+KTJUtil.m"; sourceTree = "<group>"; };
+		320803381C2906710033BC09 /* UIControl+KTJUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIControl+KTJUtil.h"; sourceTree = "<group>"; };
+		320803391C2906710033BC09 /* UIControl+KTJUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIControl+KTJUtil.m"; sourceTree = "<group>"; };
+		3208033A1C2906710033BC09 /* UIGestureRecognizer+KTJUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIGestureRecognizer+KTJUtil.h"; sourceTree = "<group>"; };
+		3208033B1C2906710033BC09 /* UIGestureRecognizer+KTJUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIGestureRecognizer+KTJUtil.m"; sourceTree = "<group>"; };
+		3208033C1C2906710033BC09 /* UIImage+KTJUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+KTJUtil.h"; sourceTree = "<group>"; };
+		3208033D1C2906710033BC09 /* UIImage+KTJUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+KTJUtil.m"; sourceTree = "<group>"; };
+		3208033E1C2906710033BC09 /* UITableView+KTJUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITableView+KTJUtil.h"; sourceTree = "<group>"; };
+		3208033F1C2906710033BC09 /* UITableView+KTJUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITableView+KTJUtil.m"; sourceTree = "<group>"; };
+		320803401C2906710033BC09 /* UITableViewCell+KTJUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITableViewCell+KTJUtil.h"; sourceTree = "<group>"; };
+		320803411C2906710033BC09 /* UITableViewCell+KTJUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITableViewCell+KTJUtil.m"; sourceTree = "<group>"; };
+		320803421C2906710033BC09 /* UITableViewHeaderFooterView+KTJUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITableViewHeaderFooterView+KTJUtil.h"; sourceTree = "<group>"; };
+		320803431C2906710033BC09 /* UITableViewHeaderFooterView+KTJUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITableViewHeaderFooterView+KTJUtil.m"; sourceTree = "<group>"; };
+		320803441C2906710033BC09 /* UIView+KTJUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+KTJUtil.h"; sourceTree = "<group>"; };
+		320803451C2906710033BC09 /* UIView+KTJUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+KTJUtil.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,7 +70,7 @@
 		320802CF1C28F7A60033BC09 = {
 			isa = PBXGroup;
 			children = (
-				320802F21C28F7BD0033BC09 /* KTJUtil */,
+				320803321C2906710033BC09 /* KTJUtil */,
 				320802DA1C28F7A60033BC09 /* Demp_KTJUtil */,
 				320802D91C28F7A60033BC09 /* Products */,
 			);
@@ -108,30 +108,31 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		320802F21C28F7BD0033BC09 /* KTJUtil */ = {
+		320803321C2906710033BC09 /* KTJUtil */ = {
 			isa = PBXGroup;
 			children = (
-				320802F91C28F8280033BC09 /* KTJUtilHeader.h */,
-				320802F61C28F7E20033BC09 /* NSObject+KTJUtil.h */,
-				320802F71C28F7E20033BC09 /* NSObject+KTJUtil.m */,
-				320802FA1C28F9240033BC09 /* UITableView+KTJUtil.h */,
-				320802FB1C28F9240033BC09 /* UITableView+KTJUtil.m */,
-				320803001C28F9D00033BC09 /* UITableViewCell+KTJUtil.h */,
-				320803011C28F9D00033BC09 /* UITableViewCell+KTJUtil.m */,
-				320803031C28FA060033BC09 /* UITableViewHeaderFooterView+KTJUtil.h */,
-				320803041C28FA060033BC09 /* UITableViewHeaderFooterView+KTJUtil.m */,
-				320803061C28FA8E0033BC09 /* NSString+KTJUtil.h */,
-				320803071C28FA8E0033BC09 /* NSString+KTJUtil.m */,
-				320803091C28FAE20033BC09 /* UIControl+KTJUtil.h */,
-				3208030A1C28FAE20033BC09 /* UIControl+KTJUtil.m */,
-				3208030C1C28FE050033BC09 /* UIGestureRecognizer+KTJUtil.h */,
-				3208030D1C28FE050033BC09 /* UIGestureRecognizer+KTJUtil.m */,
-				3208030F1C28FEE30033BC09 /* UIImage+KTJUtil.h */,
-				320803101C28FEE30033BC09 /* UIImage+KTJUtil.m */,
-				320803121C28FF5F0033BC09 /* UIView+KTJUtil.h */,
-				320803131C28FF5F0033BC09 /* UIView+KTJUtil.m */,
+				320803331C2906710033BC09 /* KTJUtilHeader.h */,
+				320803341C2906710033BC09 /* NSObject+KTJUtil.h */,
+				320803351C2906710033BC09 /* NSObject+KTJUtil.m */,
+				320803361C2906710033BC09 /* NSString+KTJUtil.h */,
+				320803371C2906710033BC09 /* NSString+KTJUtil.m */,
+				320803381C2906710033BC09 /* UIControl+KTJUtil.h */,
+				320803391C2906710033BC09 /* UIControl+KTJUtil.m */,
+				3208033A1C2906710033BC09 /* UIGestureRecognizer+KTJUtil.h */,
+				3208033B1C2906710033BC09 /* UIGestureRecognizer+KTJUtil.m */,
+				3208033C1C2906710033BC09 /* UIImage+KTJUtil.h */,
+				3208033D1C2906710033BC09 /* UIImage+KTJUtil.m */,
+				3208033E1C2906710033BC09 /* UITableView+KTJUtil.h */,
+				3208033F1C2906710033BC09 /* UITableView+KTJUtil.m */,
+				320803401C2906710033BC09 /* UITableViewCell+KTJUtil.h */,
+				320803411C2906710033BC09 /* UITableViewCell+KTJUtil.m */,
+				320803421C2906710033BC09 /* UITableViewHeaderFooterView+KTJUtil.h */,
+				320803431C2906710033BC09 /* UITableViewHeaderFooterView+KTJUtil.m */,
+				320803441C2906710033BC09 /* UIView+KTJUtil.h */,
+				320803451C2906710033BC09 /* UIView+KTJUtil.m */,
 			);
-			path = KTJUtil;
+			name = KTJUtil;
+			path = ../KTJUtil;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -205,17 +206,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				320802E31C28F7A60033BC09 /* ViewController.m in Sources */,
-				3208030B1C28FAE20033BC09 /* UIControl+KTJUtil.m in Sources */,
+				320803481C2906710033BC09 /* UIControl+KTJUtil.m in Sources */,
 				320802E01C28F7A60033BC09 /* AppDelegate.m in Sources */,
-				3208030E1C28FE050033BC09 /* UIGestureRecognizer+KTJUtil.m in Sources */,
+				3208034D1C2906710033BC09 /* UITableViewHeaderFooterView+KTJUtil.m in Sources */,
 				320802DD1C28F7A60033BC09 /* main.m in Sources */,
-				320803111C28FEE30033BC09 /* UIImage+KTJUtil.m in Sources */,
-				320802FC1C28F9240033BC09 /* UITableView+KTJUtil.m in Sources */,
-				320802F81C28F7E20033BC09 /* NSObject+KTJUtil.m in Sources */,
-				320803021C28F9D00033BC09 /* UITableViewCell+KTJUtil.m in Sources */,
-				320803051C28FA060033BC09 /* UITableViewHeaderFooterView+KTJUtil.m in Sources */,
-				320803141C28FF5F0033BC09 /* UIView+KTJUtil.m in Sources */,
-				320803081C28FA8E0033BC09 /* NSString+KTJUtil.m in Sources */,
+				3208034B1C2906710033BC09 /* UITableView+KTJUtil.m in Sources */,
+				3208034C1C2906710033BC09 /* UITableViewCell+KTJUtil.m in Sources */,
+				320803491C2906710033BC09 /* UIGestureRecognizer+KTJUtil.m in Sources */,
+				320803461C2906710033BC09 /* NSObject+KTJUtil.m in Sources */,
+				320803471C2906710033BC09 /* NSString+KTJUtil.m in Sources */,
+				3208034E1C2906710033BC09 /* UIView+KTJUtil.m in Sources */,
+				3208034A1C2906710033BC09 /* UIImage+KTJUtil.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -362,6 +363,7 @@
 				320802F11C28F7A60033BC09 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
